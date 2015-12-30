@@ -1,5 +1,7 @@
 #import <Foundation/Foundation.h>
-#import "HTTPResponse.h"
+#import <CocoaHTTPServer/CocoaHTTPServer.h>
+
+@protocol HTTPResponse;
 @class HTTPConnection;
 @class HTTPResponseProxy;
 

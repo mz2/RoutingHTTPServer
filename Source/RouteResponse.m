@@ -1,5 +1,5 @@
 #import "RouteResponse.h"
-#import "HTTPConnection.h"
+#import <CocoaHTTPServer/CocoaHTTPServer.h>
 #import "HTTPDataResponse.h"
 #import "HTTPFileResponse.h"
 #import "HTTPAsyncFileResponse.h"
