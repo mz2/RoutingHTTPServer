@@ -1,7 +1,7 @@
 #import "RoutingConnection.h"
 #import "RoutingHTTPServer.h"
-#import "HTTPMessage.h"
 #import "HTTPResponseProxy.h"
+#import <CocoaHTTPServer/HTTPMessage.h>
 
 @implementation RoutingConnection {
 	__unsafe_unretained RoutingHTTPServer *http;

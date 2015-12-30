@@ -1,8 +1,6 @@
 #import "RouteResponse.h"
 #import <CocoaHTTPServer/CocoaHTTPServer.h>
-#import "HTTPDataResponse.h"
-#import "HTTPFileResponse.h"
-#import "HTTPAsyncFileResponse.h"
+
 #import "HTTPResponseProxy.h"
 
 @implementation RouteResponse {
