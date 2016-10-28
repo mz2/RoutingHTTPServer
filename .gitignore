@@ -1,3 +1,3 @@
-Example/RoutingHTTPServer.xcodeproj/*
+*.xcuserdatad
 Carthage/Build
 .DS_Store
