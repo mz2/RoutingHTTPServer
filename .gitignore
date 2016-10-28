@@ -1,2 +1,3 @@
 Example/RoutingHTTPServer.xcodeproj/*
-!project.pbxproj
+Carthage/Build
+.DS_Store
