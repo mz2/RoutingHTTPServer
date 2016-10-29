@@ -16,4 +16,9 @@ FOUNDATION_EXPORT const unsigned char RoutingHTTPServerKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <RoutingHTTPServerKit/PublicHeader.h>
 
-
+#import "Route.h"
+#import "RouteRequest.h"
+#import "RouteResponse.h"
+#import "RoutingConnection.h"
+#import "RoutingHTTPServer.h"
+#import "HTTPResponseProxy.h"
