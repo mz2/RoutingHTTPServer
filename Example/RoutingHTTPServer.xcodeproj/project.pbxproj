@@ -24,6 +24,7 @@
 		5F6B844B1DC34E7F00DB5177 /* RoutingHTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = C99CECCE14795B3200F648A5 /* RoutingHTTPServer.m */; };
 		5F9DBFAE1DC52B55003B942A /* CocoaHTTPServerKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F9DBFAC1DC52B55003B942A /* CocoaHTTPServerKit.framework */; };
 		5F9DBFAF1DC52B55003B942A /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F9DBFAD1DC52B55003B942A /* CocoaLumberjack.framework */; };
+		5F9DBFD91DC74A67003B942A /* CocoaHTTPServerKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F9DBFAC1DC52B55003B942A /* CocoaHTTPServerKit.framework */; };
 		C99CEC8A147959C200F648A5 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C99CEC89147959C200F648A5 /* Cocoa.framework */; };
 		C99CEC94147959C200F648A5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C99CEC92147959C200F648A5 /* InfoPlist.strings */; };
 		C99CEC96147959C200F648A5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C99CEC95147959C200F648A5 /* main.m */; };
@@ -119,6 +120,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F9DBFD91DC74A67003B942A /* CocoaHTTPServerKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
