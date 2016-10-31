@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <CocoaHTTPServer/CocoaHTTPServer.h>
+#import <CocoaHTTPServerKit/CocoaHTTPServerKit.h>
 #import "RouteRequest.h"
 #import "RouteResponse.h"
 

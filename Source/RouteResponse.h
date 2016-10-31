@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <CocoaHTTPServer/CocoaHTTPServer.h>
+#import <CocoaHTTPServerKit/CocoaHTTPServerKit.h>
 
 @protocol HTTPResponse;
 @class HTTPConnection;

@@ -1,5 +1,5 @@
 #import "RouteResponse.h"
-#import <CocoaHTTPServer/CocoaHTTPServer.h>
+#import <CocoaHTTPServerKit/CocoaHTTPServerKit.h>
 
 #import "HTTPResponseProxy.h"
 
